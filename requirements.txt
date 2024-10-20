@@ -1,0 +1,6 @@
+fastapi[standard]
+instaloader
+instagrapi
+termcolor
+pillow
+uvicorn[standard]
